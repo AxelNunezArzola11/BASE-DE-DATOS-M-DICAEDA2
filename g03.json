@@ -1,0 +1,14 @@
+{
+"Paciente": [
+{ "nombre": "diego", "fecha": 213, "hora": "214", "edad": 213,"diagnostico": "523" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "erick", "fecha": 23, "hora": "324", "edad": 532,"diagnostico": "234" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" },
+{ "nombre": "", "fecha":0, "hora": "", "edad":0,"diagnostico": "" }
+]
+}
